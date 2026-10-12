@@ -31,7 +31,7 @@ After these two lectures, you should be able to:
 
 This material requires access to a [unix shell](https://fredhutch.github.io/tfcb_2021/software/#unix-command-line-shell). Different "flavors" of shell have slight variations in commands available so don't be surprised if some of the commands and options are slightly different (especially on OS X).
   
-- **Use a Command Line via Visual Studio Code (HIGHLY recommended)**
+- **Use a Command Line via Visual Studio Code (required for this course)**
   - [Install using these instructions](https://github.com/FredHutch/tfcb_2026/blob/main/software/README.md)
   - Adjust the view options in the upper right corner to toggle view and maximize the "Terminal" tab
   
@@ -44,7 +44,7 @@ This material requires access to a [unix shell](https://fredhutch.github.io/tfcb
 
 ## Reminders
 
-- Homework 2 (command line) will be available [here](https://github.com/FredHutch/tfcb_2026/tree/main/homeworks/homework02) on October 9th; it may be useful to reference these questions as you work through material in the second class.
+- Homework 2 (command line) will be available [here](https://github.com/FredHutch/tfcb_2026/tree/main/homeworks/homework02) on October 15th; it may be useful to reference these questions as you work through material in the second class.
 
 ## Further references
 
