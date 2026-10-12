@@ -7,7 +7,7 @@ This lesson introduces you to the command line (a.k.a. Unix shell), which is use
 In the first lecture, I will describe the history of and larger context for why we want to use the command line.
 [Last year's slides are here](https://github.com/FredHutch/tfcb_2025/blob/main/lectures/lecture04/slides/2025oct07_MCB536_Lecture04.pdf), this year's slides will be here and if you missed the lecture [here is a similar recorded version from 2022](https://youtu.be/vUzns3Wk-_U). 
 
-If you want a second opnion or want to learn clutser-based computing and paralleization, [here is a recorded version](https://www.youtube.com/watch?v=dzkacZ2BTjw) and [here are the slides](https://fredhutch.github.io/tfcb_2021/lectures/lecture03/slides/slides.html) covering related material by Erick Matsen in 2020.
+If you want a second opnion or want to learn clutser-based computing and parallelization, [here is a recorded version](https://www.youtube.com/watch?v=dzkacZ2BTjw) and [here are the slides](https://fredhutch.github.io/tfcb_2021/lectures/lecture03/slides/slides.html) covering related material by Erick Matsen in 2020.
 
 
 ## Learning objectives
